@@ -70,7 +70,24 @@
     margin-bottom: 30px;
 }
 .quadrodesconto{
+    position: relative;
     height: 100%;
     width: 300px;
     border: 1px solid rgb(204, 204, 204);
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+
+}
+.nomeprodu{
+    font-size: 10px;
+}
+.imgproduto{
+    position: absolute;
+    object-fit: cover;
+    width: 330px;
+    height: 330px;
+    margin-left: 90px;
+    top: 15px;
+    left: 5px;
 }

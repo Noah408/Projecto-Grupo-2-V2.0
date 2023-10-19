@@ -28,7 +28,7 @@ p{
     padding: 0;
 }
 .itensdapagina{
-    overflow-y: scroll;
+    /* overflow-y: scroll; */
     /* overflow: scroll; */
     min-height: 100%;
     height: fit-content;
