@@ -41,13 +41,18 @@ p{
 }
 .cetralitens{
     height: 100%;
-    width: 965px;
+    width: 966px;
     /* background-color: blue; */
     margin-left: 10px;
     display: flex;
     flex-direction: column;
+    /* overflow: hidden; */
 }
 h1{
+    margin: 0;
+    padding: 0;
+}
+h2{
     margin: 0;
     padding: 0;
 }

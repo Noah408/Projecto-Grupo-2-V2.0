@@ -10,7 +10,7 @@
 }
 .publifoto{
     height: 100%;
-    width: 50%;
+    width: 49%;
     /* background-color: aqua; */
     display: flex;
     justify-content: center;
@@ -27,7 +27,7 @@
     width: 50%;
     display: flex;
     flex-direction: column;
-    padding-right: 40px;
+    padding-right: 30px;
     /* justify-content: center; */
 }
 .titulo{
@@ -302,4 +302,58 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+
+
+
+
+.line2{
+    /* margin-top: 20px; */
+    margin-bottom: 30px;
+    width: 100%;
+    height: 270px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.quadr3{
+    border: 1px solid rgb(204, 204, 204);
+    height: 100%;
+    width: 307px;
+    /* padding: 20px; */
+}
+.tiulll{
+    /* margin-left: 15px; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.entregaspaga{
+    display: flex;
+    margin-left: 20px;
+    height: 150px;
+    width: 80%;
+    /* background-color: aqua; */
+}
+.btnpagaentrega{
+    margin-right: 10px;
+    height: 60px;
+    width: 80px;
+    border-radius: 100%;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #5a38fd;
+    border: none;
+}
+.dizeresdentregas{
+    width: 100%;
+    height: 100%;
+    /* background-color: aqua; */
+}
+.texdespagaentrega{
+    /* text-align: justify; */
 }
